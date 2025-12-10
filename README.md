@@ -63,5 +63,3 @@ From inside `tutorial/`:
 - **Step 7 (Evaluation & quality control)** – `src/evaluate.py` and `evaluate_outputs()` in `src/process.py`.
 - **Step 8 (Persisting results)** – `src/save.py` and the `output/` / `logs/` folders.
 - **Step 9–10 (Automation & packaging)** – `run_pipeline.py`, `requirements.txt`, and the overall structure.
-
-You can drop this `tutorial/` folder into another repo as-is whenever you want a starting point for a small, production-minded AI pipeline.
